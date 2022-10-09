@@ -52,16 +52,13 @@
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
                 <li class="nav-item active">
-                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#about_section"> About</a>
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#service_section"> Service </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#portfolio_section"> Portfolio </a>
+                  <a class="nav-link" href="#about_section"> About</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#contact_section">Contact </a>
@@ -96,48 +93,13 @@
                 </div>
                 <div class="col-md-5 offset-md-1">
                   <div class="img-box">
-                    <img src="images/dddd.png" alt="">
+                    <img src="images/marketing-removebg-preview.png" alt="">
                     <!-- <img src="images/slider-img.png" alt=""> -->
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <!-- <div class="carousel-item ">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-6 ">
-                  <div class="detail_box">
-                    <h1>
-                      WE HELP YOU TO MAKE <br>
-                      BETTER <span>SOFTWARE</span>
-                    </h1>
-                    <p>
-                      It is a long established fact that a reader will be distracted by the readable content of a page
-                      when looking
-                    </p>
-                    <a href="" class="">
-                      Read More
-                    </a>
-                  </div>
-                </div>
-                <div class="col-md-5 offset-md-1">
-                  <div class="img-box">
-                    <img src="images/Digital-Marketing-2.png" alt="">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="carousel_btn-container">
-          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="sr-only">Next</span>
-          </a>
-        </div> -->
       </div>
     </section>
     <!-- end slider section -->
@@ -213,7 +175,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="images/about-img.png" alt="" />
+            <img src="images/marketing_2.png" alt="" />
           </div>
         </div>
         <div class="col-md-5">
@@ -241,7 +203,7 @@
 
 
 
-<section>
+<section id="contact_section">
 	<div class="container col-xxl-8 px-4 py-5">
 		<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
 			<div class="col-lg-6">
