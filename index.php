@@ -12,7 +12,15 @@
   <meta name="description" content="" /> 
   <meta name="author" content="" />
 
-  <title>luka media</title>
+  <title>G-Media</title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 
   <!-- slider stylesheet -->
   <!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" /> -->
@@ -38,7 +46,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              luka media
+              G-Media
             </span>
           </a>
           </a>
@@ -86,7 +94,7 @@
                     <p>
                       Stop wasting money on ineffective campaigns. It's time to scale your business and revolutionize your brand.
                     </p>
-                    <a href="" class="">
+                    <a href="mailto:lukajeremic21@gmail.com">
                       Schedule your free call
                     </a>
                   </div>
@@ -175,7 +183,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="images/marketing_2.png" alt="" />
+            <img src="images/main_logo.png" alt="" style="width: 65%; margin-left: 15%;" />
           </div>
         </div>
         <div class="col-md-5">
@@ -277,7 +285,7 @@
           <div class="col-lg-7 col-md-9 mx-auto">
             <p>
               &copy; <?php echo date("Y"); ?> All Rights Reserved By
-              LUKA MEDIA
+              G-Media
             </p>
           </div>
         </div>
